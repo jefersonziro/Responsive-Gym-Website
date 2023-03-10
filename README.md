@@ -1,7 +1,8 @@
 # Responsive Gym Website
 
 This is an HTML, CSS and JS exercise where I apply my knowledge to make a responsive gym website.
-click here to see in your web navigator: https://jefersonziro.github.io/rgw/
+
+[Click here](https://jefersonziro.github.io/rgw/) to see in your web navigator.
 
 This project was developed with a responsive layout for diferent resolutions using the side menu for small resolution and a top menu for large resolutions.
 
