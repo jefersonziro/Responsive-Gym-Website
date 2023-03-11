@@ -8,5 +8,4 @@ This project was developed with a responsive layout for diferent resolutions usi
 
 In it there are several types of animations and different interactions to make it more attractive.
 
-![Untitled design](https://user-images.githubusercontent.com/60409499/224257986-cc283080-e36c-4286-939d-840c9ad18351.jpg)
-
+![Untitled design (1)](https://user-images.githubusercontent.com/60409499/224507259-f5c79e05-af6f-4de2-9c4e-013edb66e464.png)
