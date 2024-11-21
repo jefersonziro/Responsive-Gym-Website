@@ -2,7 +2,7 @@
 
 This is an HTML, CSS and JS exercise where I apply my knowledge to make a responsive gym website.
 
-[Click here]<a href="http://jefersonziro.github.io/Responsive-Gym-Website/"></a> to see in your web navigator.
+[Click here](http://jefersonziro.github.io/Responsive-Gym-Website/) to see in your web navigator.
 
 This project was developed with a responsive layout for diferent resolutions using the side menu for small resolution and a top menu for large resolutions.
 
